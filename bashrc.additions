@@ -1,0 +1,7 @@
+eval "$(oh-my-posh init bash)"
+
+alias ls='lsd'
+alias ll='ls -l'
+alias la='ls -a'
+alias lla='ls -la'
+alias lt='ls --tree'
